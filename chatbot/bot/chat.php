@@ -44,35 +44,6 @@ $questions = [
     "cuales son las materias que hay en la escuela?" => "Para saber las materias de cada especialidad de la escuela, ingrese a la pagina web de la escuela: https://www.escuelatecnica32de14.edu.ar/",
     "materias?" => "Para saber las materias de cada especialidad de la escuela, ingrese a la pagina web de la escuela: https://www.escuelatecnica32de14.edu.ar/",
 
-    "quien es simba?" => "el perro de lorena",
-    "quien es el novio de agustina?" => "gonzalo garcia",
-    "quienes son las mejores programando?" => "obvio agustina suarez y lorena valderrama",
-    "quien es el mejor amigo de lorena?" => "david",
-    "quienes van a volver hacer las preguntas?" => "santiago castillo bryan freitas pablito",
-    "desde que pais empezo la pandemia?" => "china",
-     
-    
-
-
-
-    "que es ser papudo?" => "ser el mas papudo de todos.",
-    "donde se encuentran los papudos?" => "Gran parte de los papudos se encuentras en la 32",
-    //xd
-    "quien es zapata?" =>"zapata es un jugador profesional de lol que ha llegado a nivel 400 en tan solo medio año",
-    "quien es gonzalo?" =>"es un main toplaner con boca de pato" ,
-    "quien es bailey?" =>"bailey es un perro con mucha calle",
-    "buuenas" =>"fiiiiiuuuuuumbbbaaaa ruuuuumba",
-    "boliviano" =>"boliviaaaaaaano",
-    "olaso" =>"OLASOOOOOOOOOO",
-    "quien es bailey" =>"bailey es un perro con mucha calle",
-
-
-
-
-    
-
-    
-
     //despedida
     "muchas gracias" => "No hay de que, estoy a tu servicio si necesitas hacer otra pregunta",
     "muchas gracias!" => "No hay de que, estoy a tu servicio si necesitas hacer otra pregunta",
